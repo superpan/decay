@@ -1,7 +1,7 @@
 #decay
 [![Build Status](https://travis-ci.org/superpan/decay.png?branh=master)](https://travis-ci.org/superpan/decay)
 
-sorting algorithms implemented for go
+sorting algorithms implemented for go, based heavily on the nodejs implementation of [https://github.com/clux/decay](https://github.com/clux/decay)
 
 ### decay.Reddit(float64) fn(float64, float64, Time) float64
 Popularity calcuation based on published Reddit rankings.  [http://amix.dk/blog/post/19588](http://amix.dk/blog/post/19588)
