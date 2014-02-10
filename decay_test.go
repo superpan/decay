@@ -2,7 +2,6 @@ package decay
 
 import (
 	"testing"
-	"time"
 )
 
 func TestReddit(test *testing.T) {
